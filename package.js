@@ -1,5 +1,6 @@
 Package.describe({
-  summary: "Twilio API Wrapper for Meteor"
+  summary: "Twilio API Wrapper for Meteor",
+  name: "twilio-meteor-2.1.0"
 });
 
 Npm.depends({ "twilio": "2.1.0" });
